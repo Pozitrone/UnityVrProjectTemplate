@@ -78,6 +78,20 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.vrlife.core": {
+      "version": "https://github.com/virtual-real-life/Unity-Core-Package.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a11e26c92e0130742ed0b10b9d21bd4c9a713d18"
+    },
+    "com.vrlife.vr": {
+      "version": "https://github.com/virtual-real-life/Unity-Vr-Package.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bf0e7f3e7da7fc936fcccea8172728ec158e9d4f"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
