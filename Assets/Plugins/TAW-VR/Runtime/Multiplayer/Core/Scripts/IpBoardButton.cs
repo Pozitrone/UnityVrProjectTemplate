@@ -1,4 +1,4 @@
-﻿#if MIRROR
+#if MIRROR
 using Sirenix.OdinInspector;
 using UnityEngine;
 
